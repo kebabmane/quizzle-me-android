@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navigation_drawer_items">
+        <item>up vote</item>
+        <item>down vote</item>
+        <item name="token_id">token</item>
+    </string-array>
+    <string name="app_name">quizzle.me</string>
+    <string name="hello_world">Did you know</string>
+    <string name="buttonValue">show another</string>
+    <string name="default_text">Where are my pants?</string>
+    <string name="button_text">show another</string>
+    <string name="image_quizzle_alt">app_icon_image</string>
+    <string name="drawer_open">Opwn Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="gcm_send_message">Token retrieved and sent to server! You can now use gcmsender to
+        send downstream messages to this app.</string>
+    <string name="registering_message">Generating InstanceID token...</string>
+    <string name="token_error_message">An error occurred while either fetching the InstanceID token,
+        sending the fetched token to the server or subscribing to the PubSub topic. Please try
+        running the sample again.</string>
+</resources>
